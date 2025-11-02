@@ -6,7 +6,7 @@ Interface em Python para consultar IBM MQ via API REST (`runCommandJSON`), permi
 
 ## Sumário
 - [Descrição geral](#descrição-geral)
-- [arquitetura (multiambiente)](#nova-arquitetura-multiambiente)
+- [arquitetura (multiambiente)](#arquitetura-multiambiente)
 - [Configuração](#configuração)
 - [Funções principais](#funções-principais)
 - [Interface Gradio](#interface-gradio)
