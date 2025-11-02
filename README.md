@@ -25,7 +25,7 @@ O projeto fornece:
 - Interface Gradio para visualização interativa;
 - Suporte a múltiplos endpoints (DEV, HML, PRD) via `MQClient`.
 
-Ideal para administradores e desenvolvedores que precisam monitorar filas QLocal e consultar CURDEPTH de forma rápida e segura.
+Ideal para usuários, administradores e desenvolvedores que precisam monitorar filas QLocal e consultar CURDEPTH de forma rápida e segura.
 
 ---
 
